@@ -28,24 +28,9 @@ Criação do Ebook :
 Faça um texto para ebook, com foco em Docker, listando as principais caracteristicas para utilizar em projetos com exemplos em código,
 
 {REGRAS}
-> Explique sempre de uma maneira simples, para que até um estagiário de T.I entenda
-> Deixe o texto enxuto
-> Sempre traga exemplos de código em contextos reais
-> Deixe sempre um titulo sugestivo por tópico
+- Explique sempre de uma maneira simples, para que até um estagiário de T.I entenda
+- Deixe o texto enxuto
+- Sempre traga exemplos de código em contextos reais
+- Deixe sempre um titulo sugestivo por tópico
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Página inicial do e-book](https://github.com/Eduardooliveira95/ebook-docker-IA/blob/main/imagem/pagina_inicial.png)
-
+![Página inicial do e-book](https://github.com/Eduardooliveira95/ebook-docker-IA/blob/main/imagem/pagina_inicial.png).
