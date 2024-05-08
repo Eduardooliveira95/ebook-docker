@@ -10,23 +10,19 @@ Este ebook é um guia essencial para aqueles que desejam compreender e dominar o
 - Utilizando Docker em Projetos
 - Conclusão
 
-# Prompts
+## Prompts
 
-## Criação da Imagem (em inglês):
+Criação da Imagem (em inglês):
 
 - Crie um prompt onde descreva exatamente para uma IA como eu quero:
-
 IDEIA:
-
 Quero um desenvolvedor dentro de uma sala completamente apagada com capuz preto desenvolvendo sentado de costas, e a única tela que está iluminando o desenvolvedor, aparecer códigos como no filme Matrix, ele está estudando e trabalhando focadamente
-
 Crie mais detalhes, sem fugir da IDEIA
 
+##
 
-## Criação do Ebook : 
-
+Criação do Ebook : 
 Faça um texto para ebook, com foco em Docker, listando as principais caracteristicas para utilizar em projetos com exemplos em código,
-
 {REGRAS}
 - Explique sempre de uma maneira simples, para que até um estagiário de T.I entenda
 - Deixe o texto enxuto
